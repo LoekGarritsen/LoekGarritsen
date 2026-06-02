@@ -27,6 +27,18 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+### 📈 Stats
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="metrics">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoekGarritsen/LoekGarritsen/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoekGarritsen/LoekGarritsen/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/LoekGarritsen/LoekGarritsen/output/github-snake.svg">
+</picture>
+
 ---
 
 <p align="center"><i>🏛️ Servers named after Greek deities. nyx · mnemosyne · hermes · helios · atlas</i></p>

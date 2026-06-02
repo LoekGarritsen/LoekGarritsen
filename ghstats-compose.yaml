@@ -1,0 +1,12 @@
+services:
+  github-readme-stats:
+    image: ghcr.io/utkuozdemir/github-readme-stats-selfhosted:latest
+    container_name: ghstats
+    restart: unless-stopped
+    ports:
+      - "8089:9000"
+    env_file: [.env]
+    mem_limit: 256m
+    logging:
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }
