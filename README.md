@@ -27,11 +27,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 📈 Stats
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="metrics">
-</p>
+### 📈 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoekGarritsen/LoekGarritsen/output/github-snake-dark.svg">
