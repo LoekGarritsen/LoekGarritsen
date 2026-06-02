@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://loek.garritsen.dev"><img src="https://img.shields.io/badge/website-loek.garritsen.dev-1f6feb?style=flat-square&logo=hugo&logoColor=white" alt="website"></a>
-  <img src="https://komarev.com/ghpvc/?username=LoekGarritsen&style=flat-square&color=1f6feb" alt="profile views">
 </p>
 
 ---
@@ -27,17 +26,6 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LoekGarritsen&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoekGarritsen&layout=compact&hide_border=true&theme=github_dark&count_private=true" alt="top langs">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LoekGarritsen&hide_border=true&theme=github-dark-blue" alt="streak">
-</p>
 
 ---
 
