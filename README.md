@@ -23,7 +23,7 @@
 | **[iris-agent](https://github.com/LoekGarritsen/iris-agent)** | A personal assistant as one local-LLM tool-calling loop — replaced nine workflow-graph automations. Code-side approval policy, trust boundary and false-claim checks. |
 | **[drop](https://github.com/LoekGarritsen/drop)** | End-to-end encrypted drop box for moving files, notes and secrets between your own devices. Zero runtime dependencies; the server only ever sees ciphertext. |
 | **[album-ranker](https://github.com/LoekGarritsen/album-ranker)** | Collaborative album & track rating with real-time, WebSocket-synced listening sessions. Vue 3 + FastAPI, magic-link auth, Spotify. |
-| **[nixos-setup](https://github.com/LoekGarritsen/nixos-setup)** · **[proxmox-theme](https://github.com/LoekGarritsen/proxmox-theme)** | A dionysus-themed NixOS/Hyprland desktop, and a dark theme for the Proxmox VE web UI. |
+| **[proxmox-theme](https://github.com/LoekGarritsen/proxmox-theme)** | Olympus — a modern dark theme for the Proxmox VE web UI. One stylesheet plus an ExtJS chart patcher. |
 
 ### 🧰 Stack
 
